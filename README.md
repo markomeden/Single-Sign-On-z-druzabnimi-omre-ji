@@ -2,7 +2,7 @@
 
 Opis:
 
-V tem projektu so razvite aplikacije, ki s pomočjo odprtokodnih knjižnjic omogočajo enotno spletno avtentikacijo ter prijavo uporabnikov v družabna omrežja Google+, Facebook, Twitter in LinkedIn. Aplikacije imajo uporabniške vmesnike in so razvite v jezikih C# (ASP.Net) in Java.
+V tem projektu so razvite aplikacije, ki s pomočjo odprtokodnih knjižnjic omogočajo enotno spletno avtentikacijo ter prijavo uporabnikov v družabna omrežja Google+, Facebook, Twitter in LinkedIn. Aplikacije imajo uporabniške vmesnike (Java Swing za Javo) in so razvite v jezikih C# (ASP.Net) in Java.
 
 Google+: Za .NET in Javo je uporabljen primer na strani https://developers.google.com/+/web/samples/csharp?hl=bg. Ta primer demonstrira uporabo knjižnjice Google APIs.
 
